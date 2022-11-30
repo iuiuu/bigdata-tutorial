@@ -16,7 +16,7 @@
  * limitations under the License.
  */
 
-package com.johnson;
+package com.johnson.flink;
 
 import org.apache.flink.streaming.api.environment.StreamExecutionEnvironment;
 
